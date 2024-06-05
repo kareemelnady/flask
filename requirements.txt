@@ -1,0 +1,6 @@
+Flask
+nltk
+transformers
+torch
+scipy
+pandas
